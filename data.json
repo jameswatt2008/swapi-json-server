@@ -1,8 +1,33 @@
 {
+    "index": [
+        {
+            "title": "2323",
+            "completed": false,
+            "id": 6
+        }
+    ],
     "todos": [
         {
-            "id": 1,
-            "content": "明天xxx"
+            "title": "2323",
+            "completed": false,
+            "id": 6
         }
-    ]
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }

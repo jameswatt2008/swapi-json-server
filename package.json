@@ -11,7 +11,9 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./app.js"
+    "start": "node ./app.js",
+    "build": "node app.js",
+    "dev": "json-server --watch data.json"
   },
   "keywords": [],
   "author": "",

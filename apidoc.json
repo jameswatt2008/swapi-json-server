@@ -3,5 +3,6 @@
     "version": "1.0.0",
     "description": "待办事项接口",
     "title": "待办事项接口",
-    "url": "https://swapi-json-server.vercel.app/"
+    "url": "https://swapi-json-server.vercel.app",
+    "forceLanguage": "zh-cn"
 }
